@@ -18,20 +18,17 @@ A grocery shopping app built with Flutter. Users can browse products, add them t
 
 ## Screenshots
 
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944108" src="https://github.com/user-attachments/assets/021f149f-3c24-4a1a-ad66-81e491af9c45" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944124" src="https://github.com/user-attachments/assets/4c1f80a3-6a1d-4de2-8719-0272eb28a100" />
-)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944128" src="https://github.com/user-attachments/assets/86b2481b-0e01-4ada-a1a6-1c1e6ebfd1b7" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944133" src="https://github.com/user-attachments/assets/53721441-2d7c-4e42-8731-2aee52585b65" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944137" src="https://github.com/user-attachments/assets/1642deef-7767-481f-8c18-962a2ae9f128" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944141" src="https://github.com/user-attachments/assets/9fc87796-aa9f-4055-81a0-c96e3d34514b" />
-)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944151" src="https://github.com/user-attachments/assets/a5f63c6e-712e-44c1-a64f-80d5b8563d9e" />
-)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944163" src="https://github.com/user-attachments/assets/3771581b-232d-4a78-86e3-6cefe00f4cf7" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944167" src="https://github.com/user-attachments/assets/ffa9d07d-a6b8-47a4-81d3-15af3133c502" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944170" src="https://github.com/user-attachments/assets/0c8a0f60-1172-4c6e-90d4-618e18720ee0" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944177" src="https://github.com/user-attachments/assets/020bafea-8ca9-4465-af90-b77f2728c1f1" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944182" src="https://github.com/user-attachments/assets/2afc05f8-e919-4ff9-be7e-a652f50ae41a" />)
-![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944182" src="https://github.com/user-attachments/assets/cb0e6e3a-1e75-4967-8e1a-ea9ad8b757d6" />
-)
+<img width="1080" height="2340" alt="Screenshot_1788944182" src="https://github.com/user-attachments/assets/864688b5-0421-492d-9a8d-c3c930cc8123" />
+<img width="1080" height="2340" alt="Screenshot_1788944177" src="https://github.com/user-attachments/assets/39871d02-d364-4e50-8b80-a1eb6709ca3c" />
+<img width="1080" height="2340" alt="Screenshot_1788944170" src="https://github.com/user-attachments/assets/14334779-d058-4de0-90ec-bae2ead8a08c" />
+<img width="1080" height="2340" alt="Screenshot_1788944167" src="https://github.com/user-attachments/assets/45c73076-c151-4e7e-920a-e30c18cdc0ab" />
+<img width="1080" height="2340" alt="Screenshot_1788944163" src="https://github.com/user-attachments/assets/1ae2331e-96f0-4242-8888-04b8e57f357a" />
+<img width="1080" height="2340" alt="Screenshot_1788944151" src="https://github.com/user-attachments/assets/031da189-d0cd-4fbe-94ce-4936480e03bd" />
+<img width="1080" height="2340" alt="Screenshot_1788944141" src="https://github.com/user-attachments/assets/8a0baf06-e64e-47fb-985c-764753ee21fa" />
+<img width="1080" height="2340" alt="Screenshot_1788944137" src="https://github.com/user-attachments/assets/e2eb2e06-c032-4f84-a992-4839b8f5a75f" />
+<img width="1080" height="2340" alt="Screenshot_1788944133" src="https://github.com/user-attachments/assets/f47fb420-9c5f-47fc-b4b1-b508664887ab" />
+<img width="1080" height="2340" alt="Screenshot_1788944128" src="https://github.com/user-attachments/assets/b2530cac-e518-4ccc-8832-727b0986886b" />
+<img width="1080" height="2340" alt="Screenshot_1788944124" src="https://github.com/user-attachments/assets/086ce3b6-7656-4096-9fa6-d539a370f3c2" />
+<img width="1080" height="2340" alt="Screenshot_1788944108" src="https://github.com/user-attachments/assets/6d75b0fe-5325-434b-b19a-98c82d4ff7ec" />
+<img width="1080" height="2340" alt="Screenshot_1788944315" src="https://github.com/user-attachments/assets/c8e60815-f04f-44b5-9b7c-e47825285041" />
+
