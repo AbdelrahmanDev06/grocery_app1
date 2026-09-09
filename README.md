@@ -20,7 +20,7 @@ A grocery shopping app built with Flutter. Users can browse products, add them t
 
 ![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944108" src="https://github.com/user-attachments/assets/021f149f-3c24-4a1a-ad66-81e491af9c45" />)
 ![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944124" src="https://github.com/user-attachments/assets/4c1f80a3-6a1d-4de2-8719-0272eb28a100" />
-screenshots/2.png)
+)
 ![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944128" src="https://github.com/user-attachments/assets/86b2481b-0e01-4ada-a1a6-1c1e6ebfd1b7" />)
 ![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944133" src="https://github.com/user-attachments/assets/53721441-2d7c-4e42-8731-2aee52585b65" />)
 ![Screenshot](<img width="1080" height="2340" alt="Screenshot_1788944137" src="https://github.com/user-attachments/assets/1642deef-7767-481f-8c18-962a2ae9f128" />)
