@@ -1,3 +1,4 @@
+<img width="1080" height="2340" alt="Screenshot_1788945707" src="https://github.com/user-attachments/assets/da3f4f88-1021-4dc7-81ad-1d6e74425d3c" />
 # Grocery App
 
 A grocery shopping app built with Flutter. Users can browse products, add them to the cart or favourites, and complete the checkout process.
