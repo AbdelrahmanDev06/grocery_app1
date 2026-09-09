@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/model/product_model.dart';
 import 'package:flutter_application_1/widgets/home_search_field.dart';
-import 'package:carousel_slider/carousel_slider.dart';
+
 import 'package:flutter_application_1/widgets/home_slider.dart';
 import 'package:flutter_application_1/widgets/product_item.dart';
-import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class ShopScreen extends StatefulWidget {
   const ShopScreen({super.key});
@@ -24,7 +24,7 @@ class _ShopScreenState extends State<ShopScreen> {
             Center(child: Image.asset("assets/images/carrot.png", width: 30)),
             SizedBox(height: 7.6),
 
-            Row(
+            const Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Icon(Icons.location_on),
@@ -38,22 +38,33 @@ class _ShopScreenState extends State<ShopScreen> {
                 ),
               ],
             ),
-            SizedBox(height: 20),
-            HomeSearchField(),
-            SizedBox(height: 20),
-            HomeSlider(),
-            SizedBox(height: 20),
+
+            const SizedBox(height: 20),
+            const HomeSearchField(),
+            const SizedBox(height: 20),
+            const HomeSlider(),
+            const SizedBox(height: 20),
+            Row(
+              children: [
+                Expanded(
+                  child: Text(
+                    "Exclusive Offer",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                  ),
+                ),
+              ],
+            ),
 
             SizedBox(
               height: 270,
               child: ListView.separated(
                 itemBuilder: (context, index) {
                   print(index);
-                  return ProductItem(price: 4 + index.toDouble());
+                  return ProductItem(product: products[index]);
                 },
                 separatorBuilder: (context, index) => SizedBox(width: 10),
                 scrollDirection: Axis.horizontal,
-                itemCount: 20,
+                itemCount: products.length,
               ),
             ),
           ],
@@ -62,3 +73,30 @@ class _ShopScreenState extends State<ShopScreen> {
     );
   }
 }
+
+List<ProductModel> products = [
+  ProductModel(
+    image: "assets/images/apple.png",
+    title: "RedApple",
+    description: "1kg , priceg",
+    price: 4.99,
+  ),
+  ProductModel(
+    image: "assets/images/beef.png",
+    title: "Beef Bone",
+    description: "1kg , priceg",
+    price: 5.99,
+  ),
+  ProductModel(
+    image: "assets/images/apple.png",
+    title: "RedApple",
+    description: "1kg , priceg",
+    price: 5.99,
+  ),
+  ProductModel(
+    image: "assets/images/chicken.png",
+    title: "Chicken",
+    description: "1kg , priceg",
+    price: 5.99,
+  ),
+];

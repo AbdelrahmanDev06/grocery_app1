@@ -32,7 +32,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   text: "Login",
                   onPressed: () {
                     if (_formKey.currentState!.validate()) {
-                      Navigator.pushNamed(context, '/shop');
+                      Navigator.pushNamed(context, '/home');
                     }
                   },
                 ),
